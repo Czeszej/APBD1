@@ -1,5 +1,5 @@
 ﻿public class Program { 
     public static void Main(string[] args) {
-        Console.WriteLine("Modyfikacja 2");
+        Console.WriteLine("Modyfikacja 3");
     }
 }
