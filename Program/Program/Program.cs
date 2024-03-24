@@ -7,7 +7,7 @@
 
     public static float showAverage(int[] a) {
         float value = 0;
-        float count = 0;
+        float counter = 0;
         float average = 0;
 
         foreach (int x in a) { 
