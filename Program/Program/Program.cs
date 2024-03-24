@@ -8,13 +8,13 @@
     public static float showAverage(int[] a) {
         float value = 0;
         float count = 0;
-        float average = 0;
+        float average1 = 0;
 
         foreach (int x in a) { 
             count ++;
             value += x;
         }
-        return average = value/count;
+        return average1 = value/count;
     }
 
     public static int showHighest(int[] a) { 
