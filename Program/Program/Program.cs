@@ -7,14 +7,19 @@
 
     public static float showAverage(int[] a) {
         float value = 0;
-        float count = 0;
-        float average1 = 0;
+<<<<<<< HEAD
+        float counter = 0;
+        float average = 0;
+=======
+        float counter = 0;
+        float average = 0;
+>>>>>>> feature-new
 
         foreach (int x in a) { 
             count ++;
             value += x;
         }
-        return average1 = value/count;
+        return average = value/count;
     }
 
     public static int showHighest(int[] a) { 
